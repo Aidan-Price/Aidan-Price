@@ -9,4 +9,3 @@
 
 ## Predicting Recent College Graudate Salaries:
 ### Using data provided by the US Department of Labor, my team and I created and evaluated different machine learning models to predict what a salary should be given factors like education level, years of experience, college major, etc.
-
