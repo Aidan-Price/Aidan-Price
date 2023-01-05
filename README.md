@@ -8,4 +8,4 @@
 > **Note:** All code was written in GCP Bigquery and I use their [public datasets](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset) for the practice questions.
 
 ## Predicting Recent College Graudate Salaries:
-### Using data provided by the US Department of Labor, my team and I created and evaluated different machine learning models to predict what a salary should be given factors like education level, years of experience, college major, etc.
+### Using data provided by [Kaggle](https://www.kaggle.com/datasets/e1cfbb38c0fe2129a6e744aff1ebd180d4d4c8097a17f9f2860027c0c0793c36?select=batch2_jobID_00B80TR.csv), my team and I created and evaluated different machine learning models to predict what a salary should be given factors like education level, years of experience, college major, etc. The different models used in our analysis include KNN Regression, Linear Regression, Decision Trees, and Random Forest.
